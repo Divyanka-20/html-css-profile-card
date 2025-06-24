@@ -2,6 +2,10 @@
 
 A clean, responsive profile card built with semantic HTML and modern CSS using Flexbox. This project is part of a Web Development Intern Test to demonstrate layout skills and responsive design without using any CSS frameworks.
 
+## 🚀 Demo
+
+🌐 [View Live](https://divyankas-profile-card.onrender.com/)
+
 ## 🔍 Project Overview
 
 This profile card includes:
@@ -11,10 +15,6 @@ This profile card includes:
 - Social media links (GitHub, LinkedIn)
 - Hover animations
 - Responsive layout for both desktop and mobile screens
-
-## 🚀 Demo
-
-🌐 [View Live](https://divyankas-profile-card.onrender.com/)
 
 ## 📁 Project Structure
 
